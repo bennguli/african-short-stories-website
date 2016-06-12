@@ -1,21 +1,23 @@
-
-      body {
-       font-family: 'Roboto', sans-serif;'Tangerine', serif;
-          font-size: 48px
-              margin:0 auto;
-          max-width: 500px;
-          line-height: 1.7em;
-          color: aqua;
-          
-              
-      }
-h1{
+body {
+    font-family: 'Roboto', sans-serif;
+    'Tangerine',
+    font-size: 48px;
+    line-height: 1.7em;
+    border-style: dotted;
+    border-radius: 1.3em;
+    border-color: royalblue;
+    backface-visibility: visible;
+    background-color: chartreuse;
+    background-attachment: scroll;
+    background-origin: padding-box;
+    background-clip: content-box;
+}
+h1 {
     color: black;
     font-weight: 800;
     line-height: normal
 }
-b,strong{
+b,
+strong {
     font-weight: bold;
 }
-
-    
